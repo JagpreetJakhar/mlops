@@ -1,6 +1,6 @@
 __pycache__
 .env
 .venv
-.json.generated
+airflow/*.json.generated
 mlruns
 airflow/logs

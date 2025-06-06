@@ -1,0 +1,19 @@
+{"timestamp":"2025-06-06T07:40:58.450825","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-06-06T07:40:58.451209","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-06T07:40:59.605934Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:40:59.606004Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:40:59.606029Z","level":"info","event":"Current task name:train_linear_model","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:40:59.606048Z","level":"info","event":"Dag name:mlflow_training_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:41:00.828327Z","level":"info","event":"Number of records before preprocessing:3403766","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:41:01.971868Z","level":"info","event":"Number of records after filtering: 3316216","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:41:10.516139Z","level":"error","event":"2025/06/06 08:41:10 INFO mlflow.tracking.fluent: Autologging successfully enabled for sklearn.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-06-06T07:41:10.571377Z","level":"error","event":"2025/06/06 08:41:10 INFO mlflow.system_metrics.system_metrics_monitor: Started monitoring system metrics.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-06-06T07:41:42.135290Z","level":"error","event":"2025/06/06 08:41:42 WARNING mlflow.utils.environment: Failed to resolve installed pip version. ``pip`` will be added to conda.yaml environment spec without a version specifier.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-06-06T07:41:42.169844Z","level":"info","event":"Train RMSE: 8.158681682842072","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:41:42.169987Z","level":"info","event":"Model intercept: 24.77207516003567","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:41:42.172057Z","level":"error","event":"2025/06/06 08:41:42 INFO mlflow.system_metrics.system_metrics_monitor: Stopping system metrics monitoring...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-06-06T07:41:42.173989Z","level":"error","event":"2025/06/06 08:41:42 INFO mlflow.system_metrics.system_metrics_monitor: Successfully terminated system metrics monitoring!","chan":"stderr","logger":"task"}
+{"timestamp":"2025-06-06T07:41:42.450345","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-06-06T07:41:42.568065Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:41:42.568160Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-06T07:41:42.568208Z","level":"info","event":"Task operator:<Task(PythonOperator): train_linear_model>","chan":"stdout","logger":"task"}

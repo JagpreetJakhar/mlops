@@ -1,0 +1,11 @@
+digest: 00fa2a80
+name: dataset
+profile: '{"features_shape": [3009173, 515], "features_size": 1549724095, "features_nbytes":
+  12397792760, "targets_shape": [3009173], "targets_size": 3009173, "targets_nbytes":
+  24073384}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 515]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "jagpreet", "mlflow.source.name": "/home/jagpreet/mlops/.venv/bin/week2",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

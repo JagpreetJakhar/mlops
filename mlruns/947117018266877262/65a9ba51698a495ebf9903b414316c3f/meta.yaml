@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jagpreet/mlops/mlruns/947117018266877262/65a9ba51698a495ebf9903b414316c3f/artifacts
+end_time: 1748902740414
+entry_point_name: ''
+experiment_id: '947117018266877262'
+lifecycle_stage: active
+run_id: 65a9ba51698a495ebf9903b414316c3f
+run_name: awesome-ox-437
+run_uuid: 65a9ba51698a495ebf9903b414316c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748902709086
+status: 3
+tags: []
+user_id: jagpreet

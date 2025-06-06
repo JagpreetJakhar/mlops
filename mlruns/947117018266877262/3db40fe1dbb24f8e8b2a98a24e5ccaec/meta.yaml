@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jagpreet/mlops/mlruns/947117018266877262/3db40fe1dbb24f8e8b2a98a24e5ccaec/artifacts
+deleted_time: 1748999897526
+end_time: null
+entry_point_name: ''
+experiment_id: '947117018266877262'
+lifecycle_stage: deleted
+run_id: 3db40fe1dbb24f8e8b2a98a24e5ccaec
+run_name: industrious-foal-634
+run_uuid: 3db40fe1dbb24f8e8b2a98a24e5ccaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748999346781
+status: 1
+tags: []
+user_id: jagpreet

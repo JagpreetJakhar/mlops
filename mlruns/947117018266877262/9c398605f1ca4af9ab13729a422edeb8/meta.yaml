@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jagpreet/mlops/mlruns/947117018266877262/9c398605f1ca4af9ab13729a422edeb8/artifacts
+end_time: 1749001059007
+entry_point_name: ''
+experiment_id: '947117018266877262'
+lifecycle_stage: active
+run_id: 9c398605f1ca4af9ab13729a422edeb8
+run_name: gaudy-gnat-224
+run_uuid: 9c398605f1ca4af9ab13729a422edeb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749001022463
+status: 3
+tags: []
+user_id: jagpreet

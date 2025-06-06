@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jagpreet/mlops/mlruns/947117018266877262/53ea3a68a4144ac7b4b93d51200a8609/artifacts
+end_time: 1748902556405
+entry_point_name: ''
+experiment_id: '947117018266877262'
+lifecycle_stage: active
+run_id: 53ea3a68a4144ac7b4b93d51200a8609
+run_name: bemused-deer-165
+run_uuid: 53ea3a68a4144ac7b4b93d51200a8609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748902556401
+status: 4
+tags: []
+user_id: jagpreet

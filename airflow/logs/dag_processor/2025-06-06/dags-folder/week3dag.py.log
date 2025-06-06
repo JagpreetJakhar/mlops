@@ -62,3 +62,9 @@
 {"timestamp":"2025-06-06T07:44:56.091720","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-06T07:45:27.802143","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-06T07:45:59.472953","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-06T07:46:31.172526","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-06T07:47:02.858507","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-06T07:47:34.588379","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-06T07:48:06.193655","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-06T07:48:37.794021","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-06T07:49:09.278005","level":"info","event":"Filling up the DagBag from /home/jagpreet/mlops/airflow/dags/week3dag.py","logger":"airflow.models.dagbag.DagBag"}
